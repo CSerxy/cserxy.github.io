@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in School of Information, University of Michigan, Aug 2018 - Jan 2024 (expected)
 
-Work experience
+* B.E. in Computer Science, Chu Kochen Honors College, Zhejiang University, Sep 2013 - June 2017
+
+Internships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apple Machine Learning Research team
+  * Research Intern, May 2019 - Aug 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Facebook AI Integrity team 
+  * Research Intern (remote), May 2021 - Aug 2021
+
+* Facebook AI Integrity team
+  * Research Intern (remote), May 2020 - Aug 2020
+
+* Alibaba Group 
+  * Research Intern, May 2019 - Aug 2019
   
 Skills
 ======
