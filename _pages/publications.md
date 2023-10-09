@@ -34,6 +34,13 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, VG Vydiswaran, Hao Ma<br>
 *In Proceedings of Findings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*<br>
 [[Paper](https://aclanthology.org/2022.naacl-main.403.pdf)] [[Github](https://github.com/CSerxy/IDPG)] [[Video](https://underline.io/lecture/53933-idpg-an-instance-dependent-prompt-generation-method)]
+
+## Historical Language Change
+------
+**Identify Shifts of Word Semantics through Bayesian Surprise**<br>
+<u>Zhuofeng Wu</u>, Cheng Li, Zhe Zhao, Fei Wu, Qiaozhu Mei<br>
+*In Proceedings of SIGIR 2018 (Oral Presentation)*<br>
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210040)]
  
 ## Robustness of ML model
 ------
@@ -50,13 +57,6 @@ Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao
 ## Diffusion Models for for Non-Autoregressive Generation
 ------
 **PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**<br>
-Yizhe Zhang, Jiatao Gu, <u>Zhuofeng Wu</u>, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly
+Yizhe Zhang, Jiatao Gu, <u>Zhuofeng Wu</u>, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly<br>
 *In Proceedings of NeurIPS 2023*<br>
 [[Paper](https://arxiv.org/pdf/2306.02531.pdf)]
-
-## Historical Language Change
-------
-**Identify Shifts of Word Semantics through Bayesian Surprise**<br>
-<u>Zhuofeng Wu</u>, Cheng Li, Zhe Zhao, Fei Wu, Qiaozhu Mei
-*In Proceedings of SIGIR 2018 (Oral Presentation)*<br>
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210040)]
