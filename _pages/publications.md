@@ -18,7 +18,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 {% endfor %}
 
 <font size=4>Contrastive Learning</font>
-======
+------
 **HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
 <u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
 *In Proceedings of Findings of EMNLP 2023*
@@ -30,6 +30,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 
 <font size=5>Contrastive Learning</font>
 Prompt Tuning
+
 ======
 **IDPG: An instance-dependent prompt generation method**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, VG Vydiswaran, Hao Ma<br>
