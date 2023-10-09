@@ -30,8 +30,8 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 
 <font size=5>Contrastive Learning</font>
 
-#### Prompt Tuning
-======
+## Prompt Tuning
+------
 **IDPG: An instance-dependent prompt generation method**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, VG Vydiswaran, Hao Ma<br>
 *In Proceedings of Findings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*
