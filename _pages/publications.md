@@ -17,7 +17,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
   {% include archive-single.html %}
 {% endfor %}
 
-<font size=4>Contrastive Learning</font>
+## Contrastive Learning
 ------
 **HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
 <u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
@@ -27,8 +27,6 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma<br>
 *arXiv preprint*<br>
 [[Preprint](https://arxiv.org/pdf/2012.15466.pdf)]
-
-<font size=5>Contrastive Learning</font>
 
 ## Prompt Tuning
 ------
