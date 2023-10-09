@@ -19,18 +19,13 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 
 Contrastive Learning
 ======
-**HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**
-
-<u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran
-
+**HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
+<u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
 *In Proceedings of Findings of EMNLP 2023*
 
-**Clear: Contrastive learning for sentence representation**
-
-<u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma
-
-*arXiv preprint*
-
+**Clear: Contrastive learning for sentence representation**<br>
+<u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma<br>
+*arXiv preprint*<br>
 [[Preprint](https://arxiv.org/pdf/2012.15466.pdf)]
 
 Prompt Tuning
