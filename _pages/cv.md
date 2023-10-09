@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Detailed resume, available in pdf format.](files/Zhuofeng_Wu_resume_2023.pdf)
 
 Education
 ======
@@ -29,33 +30,28 @@ Internships
 * Alibaba Group 
   * Research Intern, May 2019 - Aug 2019
   
-Skills
+Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reviewer service:
+  * Conference Reviewer: ACL’23, SIGIR’23, EMNLP’23, NeurIPS’23 
+  * ACL Rolling Reviewer: Dec 22, Apr 23, Jun 23 
+* Conference volunteer:
+  * Student volunteer: SIGIR’18, NAACL’22
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+I was fortunate to serve as a Graduate Student Instructor for these amazing classes:
+
+* SI 670, Applied Machine Learning, Fall 2020
+* SI 630, Natural Language Processing, Winter 2021
+* SI 650, Information Retrieval, Fall 2021
+* LHS 712, Natural Language Processing for Health, Winter 2022
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* SIGIR Student Travel Grant, 2018
+* Outstanding Graduates of Zhejiang Province, 2017
+* 2nd Prize of Excellent Undergraduate Scholarship, 2014
+* 3rd Prize in Collegiate Programming Contest of Zhejiang University, 2014, 2015
+* 1st Prize in National Olympiad in Informatics in Provinces in 2012
+* 1st Prize in National Olympiad in Mathematics in Provinces in 2010
