@@ -50,7 +50,7 @@ Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
 [[Paper](https://aclanthology.org/2023.findings-acl.561.pdf)] [[Github](https://github.com/JiazhaoLi/AttDef)] 
 
 **Chatgpt as an attack tool: Stealthy textual backdoor attack via blackbox generative model trigger**<br>
-Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao
+Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao<br>
 *arXiv preprint*<br>
 [[Preprint](https://arxiv.org/pdf/2304.14475.pdf)]
 
