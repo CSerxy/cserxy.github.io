@@ -25,7 +25,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 
 **Clear: Contrastive learning for sentence representation**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma<br>
-*arXiv preprint*<br>
+*arXiv preprint arXiv:2012.15466*<br>
 [[Preprint](https://arxiv.org/pdf/2012.15466.pdf)]
 
 ## Prompt Tuning
@@ -51,7 +51,7 @@ Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
 
 **Chatgpt as an attack tool: Stealthy textual backdoor attack via blackbox generative model trigger**<br>
 Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao<br>
-*arXiv preprint*<br>
+*arXiv preprint arXiv:2304.14475*<br>
 [[Preprint](https://arxiv.org/pdf/2304.14475.pdf)]
 
 ## Diffusion Models
