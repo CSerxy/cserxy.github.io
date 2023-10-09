@@ -20,7 +20,7 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 * Historical Language Change (such as semantic shift)
 
-* Robustness of ML model (backdoor attack and defense of LLM).
+* Robustness of ML models (backdoor attack and defense of LLMs).
 
 * Diffusion Models for Non-Autoregressive Generation.
 
