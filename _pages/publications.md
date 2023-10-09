@@ -32,11 +32,11 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 ------
 **IDPG: An instance-dependent prompt generation method**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, VG Vydiswaran, Hao Ma<br>
-*In Proceedings of Findings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*
+*In Proceedings of Findings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*<br>
 [[Paper](https://aclanthology.org/2022.naacl-main.403.pdf)] [[Github](https://github.com/CSerxy/IDPG)] [[Video](https://underline.io/lecture/53933-idpg-an-instance-dependent-prompt-generation-method)]
  
-Robustness of ML model
-======
+## Robustness of ML model
+------
 **Defending against Insertion-based Textual Backdoor Attacks via Attribution.**<br>
 Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
 *In Proceedings of Findings of ACL 2023.*<br>
