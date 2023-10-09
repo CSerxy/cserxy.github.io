@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Zhuofeng Wu. I am a final-year Ph.D. candidate at the [School of Information](https://www.si.umich.edu/), University of Michigan, advised by [Prof. VG Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). I also worked with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) between 2015-2020, and [Prof. Daniel M. Romero](http://www.dromero.org/) between 2018-2020.  
+Hello! I am a final-year Ph.D. candidate at the [School of Information](https://www.si.umich.edu/), University of Michigan, advised by [Prof. VG Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). I also worked with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) between 2015-2020, and [Prof. Daniel M. Romero](http://www.dromero.org/) between 2018-2020.  
 
 Prior to UM, I received my honored bachelor degree in Computer Science from Chu Kochen Honors College, Zhejiang University in 2017. During my undergraduate period, I was supervised by [Prof. Fei Wu](https://scholar.google.com.hk/citations?user=XJLn4MYAAAAJ&hl=zh-CN).  
 
