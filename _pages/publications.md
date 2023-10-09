@@ -42,7 +42,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 *In Proceedings of SIGIR 2018 (Oral Presentation)*<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210040)]
  
-## Robustness of ML model
+## Robustness of ML Models
 ------
 **Defending against Insertion-based Textual Backdoor Attacks via Attribution.**<br>
 Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
@@ -54,7 +54,7 @@ Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao
 *arXiv preprint*<br>
 [[Preprint](https://arxiv.org/pdf/2304.14475.pdf)]
 
-## Diffusion Models for for Non-Autoregressive Generation
+## Diffusion Models
 ------
 **PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**<br>
 Yizhe Zhang, Jiatao Gu, <u>Zhuofeng Wu</u>, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly<br>
