@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zhuofeng Wu"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpeg"
+  bio              : "Ph.D. candidate \nSchool of Information \nUniversity of Michigan " 
   location         : "Ann Arbor, MI, US"
   employer         :
-  pubmed           : "" 
+  pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=bqinFgYAAAAJ&hl=en&authuser=1"
-  email            : "My first name [at] umich [dot] edu"
+  email            : "zhuofeng [at] umich [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : "https://www.linkedin.com/in/zhuofeng-wu-914193127/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
