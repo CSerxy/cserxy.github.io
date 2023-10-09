@@ -12,7 +12,7 @@ Hello! My name is Zhuofeng Wu. I am a final-year Ph.D. candidate at the [School 
 
 Prior to UM, I received my honored bachelor degree in Computer Science from Chu Kochen Honors College, Zhejiang University in 2017. During my undergraduate period, I was supervised by [Prof. Fei Wu](https://scholar.google.com.hk/citations?user=XJLn4MYAAAAJ&hl=zh-CN).  
 
-<mark>**I am actively searching for research positions in the industry, as well as postdoctoral and faculty positions in academia. If you are aware of any openings, I would greatly appreciate it if you could let me know. Thank you!**<mark>
+***I am actively searching for research positions in the industry, as well as postdoctoral and faculty positions in academia. If you are aware of any openings, I would greatly appreciate it if you could let me know. Thank you!***
 
 I primarily working on Natural Language Processing and Machine Learning. My recent research focuses on below topics:
 
@@ -26,8 +26,8 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 News
 ======
-[Oct 2023] Our paper **HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings** is accepted by EMNLP 2023. 
+[Oct 2023] Our paper *HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings* is accepted by EMNLP 2023. 
 
-[Sep 2023] Our paper [PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model](https://browse.arxiv.org/pdf/2306.02531.pdf) is accepted by NeurIPS 2023. 
+[Sep 2023] Our paper *[PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model](https://browse.arxiv.org/pdf/2306.02531.pdf)* is accepted by NeurIPS 2023. 
 
 [Aug 2023] Finished my internship at [Machine Learning Research at Apple](https://machinelearning.apple.com/).
