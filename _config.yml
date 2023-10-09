@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuofeng Wu"
+title                    : "Zhuofeng Wu's homepage"
 title_separator          : "-"
 name                     : &name "Zhuofeng Wu"
 description              : &description "Final year PhD candidate at School of Information, University of Michigan"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/cserxy" 
   vine             :
   weibo            :
   xing             :
