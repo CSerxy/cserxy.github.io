@@ -17,7 +17,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
   {% include archive-single.html %}
 {% endfor %}
 
-Contrastive Learning
+<font size=4>Contrastive Learning</font>
 ======
 **HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
 <u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
@@ -28,6 +28,7 @@ Contrastive Learning
 *arXiv preprint*<br>
 [[Preprint](https://arxiv.org/pdf/2012.15466.pdf)]
 
+<font size=5>Contrastive Learning</font>
 Prompt Tuning
 ======
 **IDPG: An instance-dependent prompt generation method**
