@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuofeng Wu's homepage"
+title                    : "Zhuofeng Wu"
 title_separator          : "-"
 name                     : &name "Zhuofeng Wu"
 description              : &description "Final year PhD candidate at School of Information, University of Michigan"
