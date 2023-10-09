@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Detailed resume, available in pdf format.](files/Zhuofeng_Wu_resume_2023.pdf)
+* [Detailed resume, available in pdf format](/files/Zhuofeng_Wu_resume_2023.pdf)
 
 Education
 ======
