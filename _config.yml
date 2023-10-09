@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhuofeng Wu"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate \n School of Information \n University of Michigan " 
+  bio              : "Ph.D. candidate <br> School of Information <br> University of Michigan " 
   location         : "Ann Arbor, MI, US"
   employer         :
   pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=bqinFgYAAAAJ&hl=en&authuser=1"
-  email            : "zhuofeng [at] umich [dot] edu"
+  email            : "zhuofeng[at]umich[dot]edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
