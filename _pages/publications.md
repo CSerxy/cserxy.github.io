@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Selected Publications by topics"
 permalink: /publications/
 author_profile: true
 ---
@@ -47,11 +47,13 @@ Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
 [[Preprint](https://arxiv.org/pdf/2304.14475.pdf)]
 
 ## Diffusion Models for for Non-Autoregressive Generation
+------
 **PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**<br>
 *In Proceedings of NeurIPS 2023*<br>
 [[Paper](https://arxiv.org/pdf/2306.02531.pdf)]
 
 ## Historical Language Change
+------
 **Identify Shifts of Word Semantics through Bayesian Surprise**<br>
 *In Proceedings of SIGIR 2018 (Oral Presentation)*<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210040)]
