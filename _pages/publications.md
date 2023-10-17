@@ -21,7 +21,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 ------
 **HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
 <u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
-*In Proceedings of Findings of EMNLP 2023*
+*In Proceedings of Findings of EMNLP 2023*<br>
 [[Paper](https://arxiv.org/pdf/2310.09720.pdf)]
 
 **Clear: Contrastive learning for sentence representation**<br>

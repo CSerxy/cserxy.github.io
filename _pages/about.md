@@ -28,7 +28,7 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 News
 ======
-[Oct 2023] Our paper *HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings* is accepted by EMNLP 2023. 
+[Oct 2023] Our paper *[HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2310.09720.pdf)* is accepted by EMNLP 2023. 
 
 [Sep 2023] Our paper *[PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model](https://browse.arxiv.org/pdf/2306.02531.pdf)* is accepted by NeurIPS 2023. 
 
