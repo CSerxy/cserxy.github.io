@@ -41,7 +41,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 **Identify Shifts of Word Semantics through Bayesian Surprise**<br>
 <u>Zhuofeng Wu</u>, Cheng Li, Zhe Zhao, Fei Wu, Qiaozhu Mei<br>
 *In Proceedings of SIGIR 2018 (Oral Presentation)*<br>
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210040)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210040)] [[Github](https://github.com/CSerxy/IdentifyShifts)]
  
 ## Robustness of ML Models
 ------
