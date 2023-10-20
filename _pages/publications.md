@@ -21,7 +21,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 ------
 **HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
 <u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
-*In Proceedings of Findings of EMNLP 2023*<br>
+*In Proceedings of Findings of [EMNLP 2023](https://2023.emnlp.org/)*<br>
 [[Paper](https://arxiv.org/pdf/2310.09720.pdf)]
 
 **Clear: Contrastive learning for sentence representation**<br>
@@ -40,14 +40,14 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 ------
 **Identify Shifts of Word Semantics through Bayesian Surprise**<br>
 <u>Zhuofeng Wu</u>, Cheng Li, Zhe Zhao, Fei Wu, Qiaozhu Mei<br>
-*In Proceedings of SIGIR 2018 (Oral Presentation)*<br>
+*In Proceedings of [SIGIR 2018](https://sigir.org/sigir2018/) (Oral Presentation)*<br>
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210040)] [[Github](https://github.com/CSerxy/IdentifyShifts)]
  
 ## Robustness of ML Models
 ------
 **Defending against Insertion-based Textual Backdoor Attacks via Attribution.**<br>
 Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
-*In Proceedings of Findings of ACL 2023*<br>
+*In Proceedings of Findings of [ACL 2023](https://2023.aclweb.org/)*<br>
 [[Paper](https://aclanthology.org/2023.findings-acl.561.pdf)] [[Github](https://github.com/JiazhaoLi/AttDef)] 
 
 **Chatgpt as an attack tool: Stealthy textual backdoor attack via blackbox generative model trigger**<br>
@@ -59,5 +59,5 @@ Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao<br>
 ------
 **PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**<br>
 Yizhe Zhang, Jiatao Gu, <u>Zhuofeng Wu</u>, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly<br>
-*In Proceedings of NeurIPS 2023*<br>
+*In Proceedings of [NeurIPS 2023](https://neurips.cc/Conferences/2023)*<br>
 [[Paper](https://arxiv.org/pdf/2306.02531.pdf)]
