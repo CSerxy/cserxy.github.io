@@ -33,7 +33,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 ------
 **IDPG: An instance-dependent prompt generation method**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, VG Vydiswaran, Hao Ma<br>
-*In Proceedings of Findings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*<br>
+*In Proceedings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*<br>
 [[Paper](https://aclanthology.org/2022.naacl-main.403.pdf)] [[Github](https://github.com/CSerxy/IDPG)] [[Video](https://underline.io/lecture/53933-idpg-an-instance-dependent-prompt-generation-method)]
 
 ## Historical Language Change
