@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [Detailed resume, available in pdf format](/files/Zhuofeng_Wu_resume_2023.pdf)
+* [Detailed resume, available in pdf format](/files/Zhuofeng_Wu_cv_2024.pdf)
 
 Education
 ======
@@ -33,8 +33,8 @@ Internships
 Service
 ======
 * Reviewer service:
-  * Conference Reviewer: ACL’23, SIGIR’23, EMNLP’23, NeurIPS’23 
-  * ACL Rolling Reviewer: Dec 22, Apr 23, Jun 23 
+  * Conference Reviewer: SIGIR’23, ACL’23, EMNLP’23, NeurIPS’23, ICLR'24, ICML'24 
+  * ACL Rolling Reviewer: Dec 22, Apr 23, Jun 23, Oct 23, Dec 23, Feb 24 
 * Conference volunteer:
   * Student volunteer: SIGIR’18, NAACL’22
 
@@ -46,6 +46,7 @@ I was fortunate to serve as a Graduate Student Instructor for these amazing clas
 * SI 630, Natural Language Processing, Winter 2021
 * SI 650, Information Retrieval, Fall 2021
 * LHS 712, Natural Language Processing for Health, Winter 2022
+* SI 630, Natural Language Processing, Winter 2024
 
 Awards
 ======

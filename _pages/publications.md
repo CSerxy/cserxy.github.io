@@ -36,6 +36,13 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 *In Proceedings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*<br>
 [[Paper](https://aclanthology.org/2022.naacl-main.403.pdf)] [[Github](https://github.com/CSerxy/IDPG)] [[Video](https://underline.io/lecture/53933-idpg-an-instance-dependent-prompt-generation-method)]
 
+## LLM Reasoning & Planning
+------
+**Divide-or-Conquer? Which Part Should You Distill Your LLM?**<br>
+<u>Zhuofeng Wu</u>, He Bai, Aonan Zhang, Jiatao Gu, VG Vydiswaran, Navdeep Jaitly, Yizhe Zhang<br>
+*arXiv preprint arXiv:2402.15000*<br>
+[[Preprint](https://arxiv.org/pdf/2402.15000.pdf)]
+
 ## Historical Language Change
 ------
 **Identify Shifts of Word Semantics through Bayesian Surprise**<br>
