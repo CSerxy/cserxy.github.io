@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhuofeng Wu"
 title_separator          : "-"
 name                     : &name "Zhuofeng Wu"
-description              : &description "Final year PhD candidate at School of Information, University of Michigan"
+description              : &description "Applied Scientist at Amazon"
 url                      : https://cserxy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cserxy/cserxy.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhuofeng Wu"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate <br> School of Information <br> University of Michigan " 
-  location         : "Ann Arbor, MI, US"
+  bio              : "Applied Scientist <br> Amazon " 
+  location         : "Palo Alto, CA, US"
   employer         :
   pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=bqinFgYAAAAJ&hl=en&authuser=1"
