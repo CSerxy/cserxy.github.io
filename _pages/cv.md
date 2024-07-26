@@ -19,16 +19,16 @@ Education
 Internships
 ======
 * Apple Machine Learning Research team
-  * Research Intern, May 2019 - Aug 2019
+  * Research Intern, Apr 3rd 2023 - Aug 25th 2023
 
 * Facebook AI Integrity team 
-  * Research Intern (remote), May 2021 - Aug 2021
+  * Research Intern (remote), May 17th 2021 - Aug 27th 2021
 
 * Facebook AI Integrity team
-  * Research Intern (remote), May 2020 - Aug 2020
+  * Research Intern (remote), May 26th 2020 - Aug 28th 2020
 
 * Alibaba Group 
-  * Research Intern, May 2019 - Aug 2019
+  * Research Intern, May 6th 2019 - Aug 30th 2019
   
 Service
 ======
