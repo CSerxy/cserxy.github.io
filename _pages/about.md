@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am now an Applied Scientist in Amazon Search (Palo Alto, US). 
+Hello! I am now an Applied Scientist in Amazon Rufus (Palo Alto, US). 
 
 I got a Ph.D. from [School of Information](https://www.si.umich.edu/), University of Michigan, advised by [Prof. VG Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). I also worked with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) between 2015-2020, and [Prof. Daniel M. Romero](http://www.dromero.org/) between 2018-2020.  
 
@@ -28,7 +28,9 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 News
 ======
-[May 2024] Joined the Amazon Search team. 
+[Sep 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://arxiv.org/pdf/2402.15000.pdf)* is accepted by EMNLP 2024. 
+
+[May 2024] Joined the Amazon Rufus team. 
 
 [May 2024] Got married and hosted our wedding! 
 

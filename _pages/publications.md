@@ -40,7 +40,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 ------
 **Divide-or-Conquer? Which Part Should You Distill Your LLM?**<br>
 <u>Zhuofeng Wu</u>, He Bai, Aonan Zhang, Jiatao Gu, VG Vydiswaran, Navdeep Jaitly, Yizhe Zhang<br>
-*arXiv preprint arXiv:2402.15000*<br>
+*In Proceedings of Findings of [EMNLP 2024](https://2024.emnlp.org/)*<br>
 [[Preprint](https://arxiv.org/pdf/2402.15000.pdf)]
 
 ## Historical Language Change
