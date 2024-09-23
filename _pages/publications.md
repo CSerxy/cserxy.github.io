@@ -59,8 +59,9 @@ Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
 
 **Chatgpt as an attack tool: Stealthy textual backdoor attack via blackbox generative model trigger**<br>
 Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao<br>
-*arXiv preprint arXiv:2304.14475*<br>
-[[Preprint](https://arxiv.org/pdf/2304.14475.pdf)]
+*In Proceedings of [NAACL 2024](https://aclanthology.org/2024.naacl-long.165.pdf)*<br>
+*Spotlight Paper in [4th TrustNLP workshop](https://trustnlpworkshop.github.io/)*<br>
+[[Paper](https://aclanthology.org/2024.naacl-long.165.pdf)]
 
 ## Diffusion Models
 ------
