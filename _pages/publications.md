@@ -22,7 +22,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 **HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
 <u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
 *In Proceedings of Findings of [EMNLP 2023](https://2023.emnlp.org/)*<br>
-[[Paper](https://arxiv.org/pdf/2310.09720.pdf)]
+[[Paper](https://aclanthology.org/2023.findings-emnlp.161/)] [[Video](https://underline.io/lecture/90181-hicl-hierarchical-contrastive-learning-of-unsupervised-sentence-embeddings)]
 
 **Clear: Contrastive learning for sentence representation**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma<br>
@@ -34,14 +34,14 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 **IDPG: An instance-dependent prompt generation method**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, VG Vydiswaran, Hao Ma<br>
 *In Proceedings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*<br>
-[[Paper](https://aclanthology.org/2022.naacl-main.403.pdf)] [[Github](https://github.com/CSerxy/IDPG)] [[Video](https://underline.io/lecture/53933-idpg-an-instance-dependent-prompt-generation-method)]
+[[Paper](https://aclanthology.org/2022.naacl-main.403)] [[Github](https://github.com/CSerxy/IDPG)] [[Video](https://underline.io/lecture/53933-idpg-an-instance-dependent-prompt-generation-method)]
 
 ## LLM Reasoning & Planning
 ------
 **Divide-or-Conquer? Which Part Should You Distill Your LLM?**<br>
 <u>Zhuofeng Wu</u>, He Bai, Aonan Zhang, Jiatao Gu, VG Vydiswaran, Navdeep Jaitly, Yizhe Zhang<br>
 *In Proceedings of Findings of [EMNLP 2024](https://2024.emnlp.org/)*<br>
-[[Preprint](https://arxiv.org/pdf/2402.15000.pdf)]
+[[Paper](https://aclanthology.org/2024.findings-emnlp.145/)] [[Github](https://github.com/apple/ml-divide-or-conquer)]
 
 ## Historical Language Change
 ------
@@ -55,13 +55,13 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 **Defending against Insertion-based Textual Backdoor Attacks via Attribution.**<br>
 Jiazhao Li, <u>Zhuofeng Wu</u>, Wei Ping, Chaowei Xiao, V. G. Vydiswaran.<br>
 *In Proceedings of Findings of [ACL 2023](https://2023.aclweb.org/)*<br>
-[[Paper](https://aclanthology.org/2023.findings-acl.561.pdf)] [[Github](https://github.com/JiazhaoLi/AttDef)] 
+[[Paper](https://aclanthology.org/2023.findings-acl.561)] [[Github](https://github.com/JiazhaoLi/AttDef)] 
 
 **Chatgpt as an attack tool: Stealthy textual backdoor attack via blackbox generative model trigger**<br>
 Jiazhao Li, Yijin Yang, <u>Zhuofeng Wu</u>, V. G. Vydiswaran, Chaowei Xiao<br>
 *In Proceedings of [NAACL 2024](https://aclanthology.org/2024.naacl-long.165.pdf)*<br>
 *Spotlight Paper in [4th TrustNLP workshop](https://trustnlpworkshop.github.io/)*<br>
-[[Paper](https://aclanthology.org/2024.naacl-long.165.pdf)]
+[[Paper](https://aclanthology.org/2024.naacl-long.165)]
 
 ## Diffusion Models
 ------

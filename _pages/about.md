@@ -28,7 +28,7 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 News
 ======
-[Sep 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://arxiv.org/pdf/2402.15000.pdf)* is accepted by EMNLP 2024. 
+[Sep 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145/)* is accepted by EMNLP 2024. 
 
 [May 2024] Joined the Amazon Rufus team. 
 
@@ -36,7 +36,7 @@ News
 
 [Apr 2024] Defended my thesis and left Ann Arbor, a city where I lived for over 8 years. 
 
-[Feb 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://arxiv.org/pdf/2402.15000.pdf)* is now available for public access.
+[Feb 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145/)* is now available for public access.
 
 [Oct 2023] Our paper *[HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2310.09720.pdf)* is accepted by EMNLP 2023. 
 
