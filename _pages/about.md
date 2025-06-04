@@ -28,6 +28,8 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 News
 ======
+[May 2025] Out paper "UniConv: Unifying Retrieval and Response Generation for Large Language Model in Conversation" is accepted by ACL 2025. 
+
 [Sep 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145/)* is accepted by EMNLP 2024. 
 
 [May 2024] Joined the Amazon Rufus team. 
