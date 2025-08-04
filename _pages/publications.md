@@ -17,24 +17,32 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
   {% include archive-single.html %}
 {% endfor %}
 
-## Contrastive Learning
-------
-**HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
-<u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
-*In Proceedings of Findings of [EMNLP 2023](https://2023.emnlp.org/)*<br>
-[[Paper](https://aclanthology.org/2023.findings-emnlp.161/)] [[Video](https://underline.io/lecture/90181-hicl-hierarchical-contrastive-learning-of-unsupervised-sentence-embeddings)]
+## LLM Pre-Training
 
 **Clear: Contrastive learning for sentence representation**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma<br>
 *arXiv preprint arXiv:2012.15466*<br>
 [[Preprint](https://arxiv.org/pdf/2012.15466.pdf)]
 
-## Prompt Tuning
+## LLM Post-Trainig
 ------
+### Parameter-Efficient Fine-Tuning
 **IDPG: An instance-dependent prompt generation method**<br>
 <u>Zhuofeng Wu</u>, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, VG Vydiswaran, Hao Ma<br>
 *In Proceedings of [NAACL 2022](https://2022.naacl.org/) (Oral Presentation)*<br>
 [[Paper](https://aclanthology.org/2022.naacl-main.403)] [[Github](https://github.com/CSerxy/IDPG)] [[Video](https://underline.io/lecture/53933-idpg-an-instance-dependent-prompt-generation-method)]
+
+### Contrastive Learning
+**HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**<br>
+<u>Zhuofeng Wu</u>, Chaowei Xiao, V. G. Vydiswaran<br>
+*In Proceedings of Findings of EMNLP 2023*<br>
+[[Paper](https://aclanthology.org/2023.findings-emnlp.161/)] [[Video](https://underline.io/lecture/90181-hicl-hierarchical-contrastive-learning-of-unsupervised-sentence-embeddings)]
+
+### RAG
+**UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**<br>
+Fengran Mo, Yifan Gao, Chuan Meng, Xin Liu, <u>Zhuofeng Wu</u>, Kelong Mao, Zhengyang Wang, Pei Chen, Zheng Li, Xian Li, Bing Yin, Meng Jiang<br>
+*In Proceedings of [ACL 2025](https://2025.aclweb.org/)*<br>
+[[Paper](https://aclanthology.org/2025.acl-long.344/)]
 
 ## LLM Reasoning & Planning
 ------
