@@ -16,19 +16,21 @@ Prior to UM, I received my honored bachelor degree in Computer Science from Chu 
 
 I primarily working on Natural Language Processing and Machine Learning. My recent research focuses on below topics:
 
-* Self-Supervised Representation Learning (contrastive learning). 
+* LLM Pre-Training.
 
-* Historical Language Change (such as semantic shift)
+* LLM Post-Training (Instruction Fine-tuning & RLHF).
+
+* LLM Reasoning & Thinking.
+
+* Self-Supervised Representation Learning (e.g., contrastive learning). 
 
 * Robustness of ML models (backdoor attack and defense of LLMs).
 
 * Diffusion Models for Non-Autoregressive Generation.
 
-* Knowledge Distillation (from advanced black-box LLM to small models).
-
 News
 ======
-[May 2025] Our paper "UniConv: Unifying Retrieval and Response Generation for Large Language Model in Conversation" is accepted by ACL 2025. 
+[May 2025] Our paper *[UniConv: Unifying Retrieval and Response Generation for Large Language Model in Conversation](https://aclanthology.org/2025.acl-long.344/)* is accepted by ACL 2025. 
 
 [Sep 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145/)* is accepted by EMNLP 2024. 
 
