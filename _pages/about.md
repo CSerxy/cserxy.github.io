@@ -30,6 +30,9 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 News
 ======
+[Aug 2025] Our paper 
+Improving Large Language Models Function Calling and Interpretability via Guided-Structured Templates is accepted by EMNLP 2025. 
+
 [May 2025] Our paper *[UniConv: Unifying Retrieval and Response Generation for Large Language Model in Conversation](https://aclanthology.org/2025.acl-long.344/)* is accepted by ACL 2025. 
 
 [Sep 2024] Our paper *[Divide-or-Conquer? Which Part Should You Distill Your LLM?](https://aclanthology.org/2024.findings-emnlp.145/)* is accepted by EMNLP 2024. 
