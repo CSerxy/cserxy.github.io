@@ -39,6 +39,7 @@ You can also find the full list of my publicaiton at [Google Scholar Profile](ht
 [[Paper](https://aclanthology.org/2023.findings-emnlp.161/)] [[Video](https://underline.io/lecture/90181-hicl-hierarchical-contrastive-learning-of-unsupervised-sentence-embeddings)]
 
 ### RAG:
+------
 **UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**<br>
 Fengran Mo, Yifan Gao, Chuan Meng, Xin Liu, <u>Zhuofeng Wu</u>, Kelong Mao, Zhengyang Wang, Pei Chen, Zheng Li, Xian Li, Bing Yin, Meng Jiang<br>
 *In Proceedings of [ACL 2025](https://2025.aclweb.org/)*<br>
