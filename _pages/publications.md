@@ -44,6 +44,11 @@ Fengran Mo, Yifan Gao, Chuan Meng, Xin Liu, <u>Zhuofeng Wu</u>, Kelong Mao, Zhen
 *In Proceedings of [ACL 2025](https://2025.aclweb.org/)*<br>
 [[Paper](https://aclanthology.org/2025.acl-long.344/)]
 
+**Leveraging historical information to boost retrieval-augmented generation in conversations**<br>
+Fengran Mo, Yifan Gao, <u>Zhuofeng Wu</u>, Xin Liu, Pei Chen, Zheng Li, Zhengyang Wang, Xian Li, Meng Jiang, Jian-Yun Nie<br>
+*In [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management)*<br>
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0306457325003905)]
+
 ## LLM Reasoning & Planning
 ------
 **Divide-or-Conquer? Which Part Should You Distill Your LLM?**<br>
