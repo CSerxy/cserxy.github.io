@@ -18,7 +18,7 @@ Education
 
 Experience
 ======
-* Amazon Rufus, Retreieval Augmentation Generation Team 
+* Amazon foundational LLM team - Rufus 
   * Applied Scientist II, May 20th 2024 - Present
 
 Internships
@@ -38,8 +38,8 @@ Internships
 Service
 ======
 * Reviewer service:
-  * Conference Reviewer: SIGIR’23, ACL’23, EMNLP’23, NeurIPS’23, ICLR'24, ICML'24, EMNLP'24 Industry Track 
-  * ACL Rolling Reviewer: Dec 22, Apr 23, Jun 23, Dec 23, Feb 24, Apr 24, Jun 24
+  * Conference Reviewer: SIGIR’23, ACL’23, EMNLP’23, NeurIPS’23, ICLR'24, ICML'24, EMNLP'24 Industry Track, ICML 2025, NeurIPS 2025, ICLR 2026 
+  * ACL Rolling Reviewer: Dec 22, Apr 23, Jun 23, Dec 23, Feb 24, Apr 24, Jun 24, Oct 25
   * Program Committee: AAAI'25
   * Journal Reviewer: JASIST-2024-03
 * Conference volunteer:
