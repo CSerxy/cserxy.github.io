@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am now an Applied Scientist in Amazon foundation modeling team - Rufus (Palo Alto, US). 
+Hello! I'm a Senior Research Scientist at Apple, where I focus on Multimodal Large Language Models, with a particular emphasis on speech and text interactions.
 
 I got a Ph.D. from [School of Information](https://www.si.umich.edu/), University of Michigan, advised by [Prof. VG Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). I also worked with [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/) between 2015-2020, and [Prof. Daniel M. Romero](http://www.dromero.org/) between 2018-2020.  
 
-Prior to UM, I received my honored bachelor degree in Computer Science from Chu Kochen Honors College, Zhejiang University in 2017. During my undergraduate period, I was supervised by [Prof. Fei Wu](https://scholar.google.com.hk/citations?user=XJLn4MYAAAAJ&hl=zh-CN).  
+Before that, I received my honored bachelor degree in Computer Science from Chu Kochen Honors College, Zhejiang University in 2017. During my undergraduate period, I was supervised by [Prof. Fei Wu](https://scholar.google.com.hk/citations?user=XJLn4MYAAAAJ&hl=zh-CN).  
 
-I primarily working on Natural Language Processing and Machine Learning. My recent research focuses on below topics:
+My recent research focuses on below topics:
 
 * LLM Pre-Training.
 
@@ -30,6 +30,8 @@ I primarily working on Natural Language Processing and Machine Learning. My rece
 
 News
 ======
+[Jan 2026] I join Apple as a Senior Research Scientist. 
+
 [Sep 2025] Our paper *[Leveraging historical information to boost retrieval-augmented generation in conversations](https://www.sciencedirect.com/science/article/pii/S0306457325003905)* is accepted by [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management).
 
 [Aug 2025] Our paper 

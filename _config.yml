@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhuofeng Wu"
 title_separator          : "-"
 name                     : &name "Zhuofeng Wu"
-description              : &description "Applied Scientist at Amazon"
+description              : &description "Senior Research Scientist at Apple"
 url                      : https://cserxy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cserxy/cserxy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhuofeng Wu"
   avatar           : "profile.png"
-  bio              : "Applied Scientist <br> Amazon " 
+  bio              : "Senior Research Scientist <br> Apple" 
   location         : "Palo Alto, CA, US"
   employer         :
   pubmed           :  

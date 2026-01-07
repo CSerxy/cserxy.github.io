@@ -12,14 +12,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Information, University of Michigan, Aug 2018 - Jan 2024 (expected)
+* Ph.D in School of Information, University of Michigan, Aug 2018 - Apr 2024
 
 * B.E. in Computer Science, Chu Kochen Honors College, Zhejiang University, Sep 2013 - June 2017
 
 Experience
 ======
+* Apple - Siri
+  * Senior Research Scientist, Jan 5th, 2026 - present
+
 * Amazon foundational LLM team - Rufus 
-  * Applied Scientist II, May 20th 2024 - Present
+  * Applied Scientist II, May 20th 2024 - Jan 2nd, 2026
 
 Internships
 ======
